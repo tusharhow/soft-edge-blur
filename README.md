@@ -1,16 +1,32 @@
-# soft_edge_blur
+# Soft Edge Blur Effect with Smooth Animation in Flutter
 
-A new Flutter project.
+🚀 Just built a new UI with **soft-edge blur effect** that responds dynamically to user scrolls! The blur fades in and out smoothly, while elements like the search bar and logo transition seamlessly. 🌀
 
-## Getting Started
+💡 Using animated transitions helps to bring the interface to life, delivering an engaging and visually appealing user experience.
 
-This project is a starting point for a Flutter application.
+# Demo
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/d86c7bd9-432d-4d70-8df2-0dcbb57b667e
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features:
+- **Dynamic blur effect** that adapts with user scrolls.
+- **Smooth animation** for UI elements like search bars and logos.
+
+
+💻 Built with **Flutter** for a polished and sleek user experience. It's all about the details that make the interaction feel more intuitive and fluid.
+
+---
+
+### Tech Stack:
+- **Framework:** Flutter
+- **Animation Tools:** `AnimatedOpacity`, `AnimatedPositioned`, and `BackdropFilter`
+- **Design Focus:** Soft blur edges, responsive transitions
+
+✨ *Feel free to try out the code and share your thoughts!*
+
+---
+
+#### Tags: 
+#Flutter #UIDesign #Animation #UX #MobileDevelopment #BlurEffect #FlutterDev
+
